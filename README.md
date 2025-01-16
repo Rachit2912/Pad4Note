@@ -1,6 +1,6 @@
 # Pad4Note
 
-##A Simple Notepad Clone in Qt and C++
+## A Simple Notepad Clone in Qt and C++
 
 Pad4Note is a simple notepad application built using Qt and C++ with essential text editing functions. It provides a user-friendly interface to create, edit, and save text files with basic editing options.
 
