@@ -50,5 +50,5 @@ Navigate to the /rsrc directory.
 Run the Pad4Note.exe installer file to install and run the application.
 
 ## Acknowledgments
-Qt Documentation: For the great framework and community support.
+Qt Documentation: For the great framework and community support.<br>
 C++ Standard Library: For the tools and functionalities that made development smoother.
