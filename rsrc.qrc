@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/rsrc">
+        <file>rsrc/icons/add-file.png</file>
+        <file>rsrc/icons/cutting.png</file>
+        <file>rsrc/icons/files.png</file>
+        <file>rsrc/icons/folder.png</file>
+        <file>rsrc/icons/paste.png</file>
+        <file>rsrc/icons/redo.png</file>
+        <file>rsrc/icons/save (1).png</file>
+        <file>rsrc/icons/save.png</file>
+        <file>rsrc/icons/undo.png</file>
+        <file>rsrc/icons/copy.png</file>
+        <file>rsrc/icons/exit.png</file>
+        <file>rsrc/icons/note.png</file>
+    </qresource>
+</RCC>
